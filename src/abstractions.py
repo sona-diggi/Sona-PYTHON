@@ -17,6 +17,8 @@ class car(vehicle):
         print("car1 4 wheel")
 
     
+    def keys(self):
+        print("4 keys")
 
 
 v=car()

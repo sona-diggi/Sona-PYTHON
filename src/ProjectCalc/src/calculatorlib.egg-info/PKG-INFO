@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: calculatorlib
+Version: 1.0.0
+Summary: A simple calculator library
+Author-email: Sona <sona@example.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
